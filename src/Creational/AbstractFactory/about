@@ -1,0 +1,7 @@
+GUI aplikacija
+Napravi GUI koji podržava Windows i macOS izgled. Svaki sistem treba da kreira kompatibilne Button i Checkbox objekte.
+
+Prepoznaješ ga kada: Kada kreiraš porodice povezanih objekata koji moraju biti kompatibilni i želiš da
+menjaš celu porodicu.
+Primer: Windows GUI pravi Windows dugmad/prozore, a macOS GUI pravi macOS varijante.
+Struktura: AbstractFactory → ConcreteFactory → AbstractProducts.

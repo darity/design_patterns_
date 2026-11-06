@@ -1,0 +1,6 @@
+Fajl sistem
+Napravi File i Directory. Direktorijum može da sadrži fajlove i druge direktorijume. Omogući računanje ukupne veličine.
+
+Prepoznaješ ga kada: Postoji hijerarhija objekata; pojedinačne objekte i grupe želiš da tretiraš isto.
+Primer: Fajl i direktorijum; direktorijum sadrži fajlove i druge direktorijume.
+Struktura: Component → Leaf / Composite.

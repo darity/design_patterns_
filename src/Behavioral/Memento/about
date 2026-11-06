@@ -1,0 +1,6 @@
+Editor teksta
+Napravi editor koji čuva prethodna stanja teksta i omogućava Undo.
+
+Prepoznaješ ga kada: Želiš da sačuvaš stanje objekta i kasnije ga vratiš.
+Primer: Undo funkcionalnost u editoru teksta.
+Struktura: Originator → Memento → Caretaker.

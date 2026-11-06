@@ -1,0 +1,9 @@
+Video-igra
+Napravi neprijatelja koji može da se klonira. Klon treba da zadrži karakteristike originala,
+ali da može nezavisno da menja svoje stanje.
+
+
+Prepoznaješ ga kada: Kada želiš da napraviš novi objekat kopiranjem postojećeg, naročito ako je
+kreiranje komplikovano ili skupo.
+Primer: Primer: kopiranje neprijatelja u igri sa istim karakteristikama.
+Struktura: Prototype → clone().

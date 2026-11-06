@@ -1,0 +1,6 @@
+Plaćanje
+Sistem podržava plaćanje karticom, PayPal-om i kriptovalutom. Korisnik može da promeni način plaćanja.
+
+Prepoznaješ ga kada: Postoji više algoritama za isti zadatak i želiš da ih menjaš nezavisno.
+Primer: Različiti algoritmi sortiranja ili načini plaćanja.
+Struktura: Context → Strategy → ConcreteStrategy.

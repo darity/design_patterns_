@@ -1,0 +1,6 @@
+Prepoznaješ ga kada: Veliki broj objekata ponavlja podatke i želiš da smanjiš potrošnju memorije.
+Primer: Hiljade stabala dele istu vrstu, teksturu i model.
+Struktura: Flyweight deli zajedničko stanje; objekti koriste različito spoljašnje stanje.
+
+Video-igra
+Napravi sistem sa mnogo stabala. Sva stabla iste vrste treba da dele zajedničke podatke o teksturi i modelu.

@@ -1,0 +1,7 @@
+GUI
+Napravi formu sa TextField, Button i Checkbox komponentama.
+Komponente ne treba direktno da komuniciraju međusobno, već preko Mediator objekta.
+
+Prepoznaješ ga kada: Više objekata direktno komunicira i stvara mnogo zavisnosti.
+Primer: GUI komponente komuniciraju preko centralnog objekta.
+Struktura: Colleague → Mediator.

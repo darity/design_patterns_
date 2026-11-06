@@ -1,0 +1,3 @@
+Prepoznaješ ga kada: Kompleksan sistem ima mnogo klasa, a klijentu treba jednostavan interfejs.
+Primer: Computer.start() pokreće procesor, memoriju i disk.
+Struktura: Facade → više subsystem objekata.

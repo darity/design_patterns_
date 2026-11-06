@@ -1,0 +1,6 @@
+Slike
+Napravi Image interfejs i RealImage koji učitava sliku sa diska. Proxy treba da odloži učitavanje do prvog prikaza.
+
+Prepoznaješ ga kada: Želiš da kontrolišeš pristup objektu.
+Primer: Učitavanje slike tek kada se prvi put prikaže ili kontrola pristupa.
+Struktura: Proxy i RealSubject implementiraju isti interfejs.

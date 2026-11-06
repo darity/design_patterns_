@@ -1,0 +1,7 @@
+Napravi sistem koji kreira različite tipove neprijatelja: Goblin, Dragon i Skeleton. Svaki neprijatelj ima drugačiji način napada.
+Konkretni kreatori odlučuju koji neprijatelj se kreira.
+
+Prepoznaješ ga kada: Kada postoji zajednički interfejs proizvoda, više konkretnih proizvoda, a podklase
+kreatora odlučuju koji proizvod će napraviti.
+Primer: kreiranje različitih tipova neprijatelja u igri.
+Struktura: Creator → ConcreteCreator → Product.

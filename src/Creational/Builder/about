@@ -1,0 +1,9 @@
+Konfiguracija računara
+Napravi objekat Computer koji ima procesor, RAM, grafičku kartu, disk i operativni sistem.
+Omogući kreiranje računara kroz više koraka.
+
+
+Prepoznaješ ga kada: Kada objekat ima mnogo parametara, konstruktor postaje komplikovan ili se
+objekat gradi kroz više koraka.
+Primer: konfiguracija računara sa procesorom, RAM-om, grafičkom kartom i skladištem.
+Struktura: Builder → ConcreteBuilder → Product.

@@ -1,0 +1,6 @@
+Obrada podataka
+Napravi algoritam za obradu CSV i JSON datoteka. Redosled koraka je isti, ali se konkretni koraci razlikuju.
+
+Prepoznaješ ga kada: Više algoritama ima isti redosled koraka, ali se pojedini koraci razlikuju.
+Primer: Različiti testovi imaju zajedničku pripremu, izvršavanje i čišćenje.
+Struktura: Bazna klasa definiše algoritam; podklase redefinišu korake.

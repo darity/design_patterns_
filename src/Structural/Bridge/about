@@ -1,0 +1,8 @@
+Uređaji
+Napravi sistem daljinskog upravljanja koji podržava TV i Radio,
+a ima različite vrste kontrolera: BasicRemote i AdvancedRemote.
+
+
+Prepoznaješ ga kada: Postoje dve nezavisne dimenzije promena koje bi inače napravile mnogo podklasa.
+Primer: Različite vrste uređaja i načini upravljanja njima.
+Struktura: Abstraction sadrži referencu na Implementor.

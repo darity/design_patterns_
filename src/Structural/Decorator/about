@@ -1,0 +1,6 @@
+Kafa
+Napravi osnovnu kafu kojoj korisnik može dinamički da dodaje mleko, šećer i šlag. Svaki dodatak povećava cenu.
+
+Prepoznaješ ga kada: Želiš dinamički da dodaš funkcionalnost objektu bez mnogo podklasa.
+Primer: Kafa kojoj dodaješ mleko, šećer ili šlag.
+Struktura: Decorator implementira isti interfejs i sadrži drugi Component.

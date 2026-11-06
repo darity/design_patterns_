@@ -1,0 +1,7 @@
+Integracija biblioteke
+Postojeći sistem očekuje interfejs PaymentProcessor, dok biblioteka ima ThirdPartyPaymentService sa drugačijim metodama.
+Napravi adapter.
+
+Prepoznaješ ga kada: Dve klase imaju nekompatibilne interfejse.
+Primer: Sistem očekuje getData(), a biblioteka nudi read().
+Struktura: Client → Adapter → Adaptee.

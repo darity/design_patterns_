@@ -1,0 +1,6 @@
+Tetris
+Napravi komande za pomeranje levo, desno, rotaciju i spuštanje figure. Svaka komanda treba da bude objekat.
+
+Prepoznaješ ga kada: Želiš da zahtev predstaviš kao objekat.
+Primer: Tetris komande za pomeranje i rotaciju, koje mogu da se izvrše ili ponište.
+Struktura: Invoker → Command → Receiver.

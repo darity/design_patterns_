@@ -1,0 +1,7 @@
+Berza
+Kada se promeni cena akcije, svi registrovani korisnici treba da dobiju obaveštenje.
+
+Prepoznaješ ga kada: Kada se stanje jednog objekta promeni, više drugih objekata treba da dobije
+obaveštenje.
+Primer: Promena cene akcije obaveštava korisnike.
+Struktura: Subject → lista Observer objekata → notify().

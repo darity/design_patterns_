@@ -1,0 +1,7 @@
+Aplikacija
+Napravi ConfigurationManager koji čuva konfiguraciju aplikacije. U celoj aplikaciji treba da postoji jedna instanca.
+
+Prepoznaješ ga kada: Kada sistem treba da ima jednu instancu određene klase kojoj pristupa više delova
+sistema.
+Primer: centralni objekat konfiguracije aplikacije.
+Struktura: Privatni konstruktor + statička instanca + metoda za pristup.
